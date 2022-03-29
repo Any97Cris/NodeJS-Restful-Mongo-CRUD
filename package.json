@@ -1,0 +1,26 @@
+{
+  "name": "crud-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Any97Cris/NodeJS-Restful-Mongo-CRUD.git"
+  },
+  "dependencies": {
+    "body-parser" : "1.18.1",
+    "express": "4.15.4",
+    "mongoose": "*",
+    "request": "2.88.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Any97Cris/NodeJS-Restful-Mongo-CRUD/issues"
+  },
+  "homepage": "https://github.com/Any97Cris/NodeJS-Restful-Mongo-CRUD#readme"
+}
