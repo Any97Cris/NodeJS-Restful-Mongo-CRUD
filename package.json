@@ -13,7 +13,7 @@
   "dependencies": {
     "body-parser" : "1.18.1",
     "express": "4.15.4",
-    "mongoose": "*",
+    "mongoose": "4.11.12",
     "request": "2.88.0"
   },
   "keywords": [],
