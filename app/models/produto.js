@@ -5,8 +5,8 @@
     Data: 29/03/2022
 */
 
-var mongoose = require('mongoose');
-var Schema = mongoose.Schema;
+var mongose = require('mongoose');
+var Schema = mongose.Schema;
 
 /*
     Produtos
@@ -24,4 +24,4 @@ var ProdutoSchema = new Schema({
 
 });
 
-module.exports = mongoose.model('Produtos', ProdutoSchema);
+module.exports = mongose.model('Produtos', ProdutoSchema);
